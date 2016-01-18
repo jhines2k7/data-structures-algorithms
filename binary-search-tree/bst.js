@@ -1,7 +1,7 @@
 /**
  * Created by jhines on 1/14/16.
  */
-var Node = require('./bst');
+var Node = require('./bst-node');
 
 class BST {
     constructor() {
